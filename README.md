@@ -2,6 +2,7 @@
 skills expectations in comparison with real tasks of a data analyst
 
 Typical tasks of an analyst
+
 Business Problem -> Math problem
 Brainstrom solutions
 organise data
