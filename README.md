@@ -36,7 +36,8 @@ Begleitung unternehmensinterner Projekte der Tool-Ablösung oder Tool-Veränderu
 
 
 2.
-a.![Indeed NZZ](https://de.indeed.com/viewjob?jk=7eb80037270227e0&tk=1h66k23pe2m18002&from=serp&vjs=3)https://de.indeed.com/viewjob?jk=7eb80037270227e0&tk=1h66k23pe2m18002&from=serp&vjs=3)
+a.
+![Indeed NZZ](https://de.indeed.com/viewjob?jk=7eb80037270227e0&tk=1h66k23pe2m18002&from=serp&vjs=3)https://de.indeed.com/viewjob?jk=7eb80037270227e0&tk=1h66k23pe2m18002&from=serp&vjs=3)
 
 b.
 your area of ​​responsibility
