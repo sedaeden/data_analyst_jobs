@@ -39,6 +39,8 @@ clear what needed
 d.
 align with lecture info
 
+
+
 2.
 a.
 ![Indeed NZZ](https://de.indeed.com/viewjob?jk=7eb80037270227e0&tk=1h66k23pe2m18002&from=serp&vjs=3)
@@ -59,4 +61,10 @@ Erstellung von Datenvisualisierungen, interaktiven Dashboards und Präsentatione
 Proaktive Analyse von Business Drivers und Impaktanalyse von Marketingaktivitäten
 Erstellung von übergreifenden Segmentbewegungsanalysen
 Organisation und Durchführung von Schulungen für Tableau und anderen Analytics Tools sowie Nutzersupport
+
+c.
+clear what needed
+
+d.
+align with lecture info
 
