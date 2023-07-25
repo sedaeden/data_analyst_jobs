@@ -33,7 +33,11 @@ Beratung und Begleitung von Projekten sowie Weiterentwicklung vorhandener KPIs u
 Bei Bedarf Schulung und Beratung unserer internen Kunden im Rahmen der Einführung neuer Reporting-Tools
 Begleitung unternehmensinterner Projekte der Tool-Ablösung oder Tool-Veränderung in der Funktion des Key-Users
 
+c.
+clear what needed
 
+d.
+align with lecture info
 
 2.
 a.
