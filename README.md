@@ -17,6 +17,7 @@ a.
 
 b.
 your area of ​​responsibility
+
 Responsible for creating, maintaining and customizing reports and dashboards
 Conception, construction and further development of the BI reporting landscape
 Design, implementation and documentation of reporting standards
@@ -26,6 +27,7 @@ If necessary, training and advising our internal customers as part of the introd
 Accompanying internal company projects of tool replacement or tool change in the function of the key user
 
 Ihr Aufgabenbereich
+
 Verantwortung für die Erstellung, Pflege und Anpassung von Reports und Dashboards
 Konzeption, Aufbau und Weiterentwicklung der BI-Reporting-Landschaft
 Entwurf, Implementierung und Dokumentierung von Reporting Standards
@@ -48,6 +50,7 @@ a.
 
 b.
 your area of ​​responsibility
+
 Conception, planning, implementation, support and further development of standard reporting and BI solutions as well as KPIs
 Development of focus reports and ad-hoc analyzes of sales data, marketing activities and behavioral data to support decision-making in business
 Creation of data visualizations, interactive dashboards and presentations for management reporting
@@ -56,6 +59,7 @@ Creation of comprehensive segment movement analyses
 Organization and implementation of training for Tableau and other analytics tools as well as user support
 
 Ihr Aufgabenbereich
+
 Konzeption, Planung, Umsetzung, Betreuung und Weiterentwicklung von Standard Reporting- und BI-Lösungen sowie KPIs
 Entwicklung von Fokus-Reports und ad-hoc Analysen rund um Verkaufsdaten, Marketingaktivitäten sowie Verhaltensdaten zur Entscheidungsunterstützung im Business
 Erstellung von Datenvisualisierungen, interaktiven Dashboards und Präsentationen für Management Reporting
